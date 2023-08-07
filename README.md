@@ -1,25 +1,29 @@
 <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" height="300px" />
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Anburaj</h1>
-<h4 align="center">Enthusiastic Full Stack Web Developer with a strong command of HTML5, CSS3, and JavaScript. Experienced in React.js, Node.js, Express.js, and MongoDB, and possessing a solid grasp of the fundamentals of web development. Dedicated to creating outstanding web solutions and fostering effective teamwork and collaboration.</h3>
+<h1 align="center">Hi 👋, I'm Anburaj</h1>
+<h4 align="center"> An enthusiastic Full-Stack Web Developer, dedicated to ongoing professional development and the pursuit of excellence</h3>
 
 <img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" align="right" width="400px" />
 
-- 🔭 Currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
+## 🙋‍♀️👩‍🎓 About me...
+- 🌱 Passionate aspiring full-stack web developer with a specialization in MERN stack.
+
+- 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
+
+- 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
+
+- 👨‍💻 Currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
+
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="css3" width="20" height="20"/> LinkedIn : [Anburaj](https://www.linkedin.com/in/anburaj-s-551bba18a) <a href="https://www.linkedin.com/in/anburaj-s-551bba18a/" target="_blank" rel="noreferrer"> 
 
 - ✉ Gmail :  [anburaj2203@gmail.com](anburaj2203@gmail.com)
 
 - 🔗 Portfolio : https://Anburaj07.github.io/
 
 - 📄 Resume :[Anburaj-Resume.pdf](https://github.com/Anburaj07/Anburaj07/files/12280251/Anburaj-Resume.pdf)
+  
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/anburaj-s-551bba18a/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="css3" width="40" height="40"/>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a> 
