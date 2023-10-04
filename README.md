@@ -21,8 +21,7 @@
 
 - ✉ Gmail :  [anburaj2203@gmail.com](anburaj2203@gmail.com)
 
-- 🔗 Portfolio:[https://anburaj07.github.io/](https://anburaj07.github.io/)
-- <a href="https://anburaj07.github.io/"> portfolio</a>
+- 🔗 Portfolio : https://anburaj07.github.io/
   
 - 📄 Resume : [Anburaj-Resume.pdf](https://github.com/Anburaj07/Anburaj07/files/12280251/Anburaj-Resume.pdf)
   
