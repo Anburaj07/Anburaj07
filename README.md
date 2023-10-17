@@ -8,7 +8,7 @@
 <br/>
 
 
-## 🙋‍♀️👩‍🎓 About me...
+## 🙋‍♀️👩‍🎓 About me:
 - 🌱 Passionate aspiring full-stack web developer with a specialization in MERN stack.
 
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
