@@ -23,8 +23,7 @@
 
 - 🔗 Portfolio : https://anburaj07.github.io/
   
-- 📄 Resume : [Anburaj-Resume.pdf](https://github.com/Anburaj07/Anburaj07/files/13413441/Anburaj-Resume.pdf)
-
+- 📄 Resume : [Anburaj-Resume.pdf](https://github.com/Anburaj07/Anburaj07/files/13445752/Anburaj-Resume.pdf)
 
 ## Languages:
 <p dir="auto">
